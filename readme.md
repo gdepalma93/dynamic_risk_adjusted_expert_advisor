@@ -1,4 +1,4 @@
-# Dyanmic Risk Adjusted Experted Advisor
+# Dyanmic Risk Adjusted Expert Advisor
 
 Features a risk adjusted dynamic position sizing algorithm, smartingale algorithm, and real time performance dashboard.   
 Aims to maximize the probability of success for Trader's using the MetaTrader 4 platform.   
